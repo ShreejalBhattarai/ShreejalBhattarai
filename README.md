@@ -7,8 +7,11 @@
   Salut / Halo / Ola / Hei         
 ══════════════════════════════════ 
 ```
-
-I’m an **Electrical and Computer Engineering student** with a passion for **electronic systems** — from **Validation, simulation, testing, and deployment, manufacturing and prototyping**.  
+## About Me:
+**Electrical and Computer Engineering student** with a passion for **electronic systems** — from **Validation, simulation, testing, and deployment, manufacturing and prototyping**.  
+Aspiring Hardware Engineer with hands-on experience in embedded systems, digital verification, and automated testing.
+Experienced with APU/CPU-level instrumentation, including GPIB, USB, and SPI interfaces, and scripting automation using Python (PyVISA, QCodes) for hardware validation and system benchmarking.
+Passionate about ensuring next-gen hardware stability and usability through rigorous stress testing and data analysis.
 I have a strong knack for **building things from scratch** and exploring how **hardware and software** work together to bring ideas to life.  
 
 
